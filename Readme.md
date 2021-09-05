@@ -19,5 +19,3 @@
 > - [Elias Nogueira](https://github.com/lyusk8) 
 > - [José Luiz Alves](https://github.com/luiz92)      
 > - [Thiago Magdalena](https://github.com/thiagomag)      
-
-
